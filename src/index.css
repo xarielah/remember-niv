@@ -1,5 +1,14 @@
 @import "tailwindcss";
 
+@keyframes memorial-progress {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
+
 * {
   font-family: "Rubik", sans-serif;
   font-optical-sizing: auto;
