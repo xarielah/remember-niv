@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+* {
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400, 500, 700;
+  font-style: normal;
+}
